@@ -276,6 +276,7 @@ alwaysdata.com
 alwaysdata.net
 alwaysvpn.com
 am730.com.hk
+amazon.com
 amazon.co.jp
 amazonaws.com
 amazonvideo.com
@@ -291,6 +292,8 @@ amnesty.org
 amnesty.org.hk
 amnesty.tw
 amnestyusa.org
+amnezia.org
+amnezia.host
 amnyemachen.org
 amoiist.com
 ampproject.org
@@ -5983,6 +5986,7 @@ urbansurvival.com
 urchin.com
 urlborg.com
 urlparser.com
+us-west-2.console.aws.amazon.com
 us.to
 usacn.com
 usaip.eu
@@ -6607,6 +6611,7 @@ yesasia.com
 yesasia.com.hk
 yespornplease.com
 yeyeclub.com
+yfsp.tv
 ygto.com
 yhcw.net
 yibada.com
